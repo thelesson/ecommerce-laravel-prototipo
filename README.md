@@ -7,6 +7,7 @@
 ## Laravel - Teste Processo Seletivo - Vaga Remota - Laravel 
 
 Protótipo simples de uma aplicação em Laravel que cadastra produtos, clientes e simula compras.
+Não há Gateway de pagamentos. 
 <p align="center">
   <img src="./screenshots/img01.png"  width="100%">
 </p>
